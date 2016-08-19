@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroSaga", "HeroSaga\HeroSaga.csproj", "{736F8EA9-4ECD-4484-9F79-0C34C53AAFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{1B2B4989-DC63-4266-BB3F-3B8090018796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{27CBBDC8-6B21-492C-8465-45BD21D4872B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736F8EA9-4ECD-4484-9F79-0C34C53AAFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736F8EA9-4ECD-4484-9F79-0C34C53AAFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736F8EA9-4ECD-4484-9F79-0C34C53AAFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736F8EA9-4ECD-4484-9F79-0C34C53AAFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2B4989-DC63-4266-BB3F-3B8090018796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2B4989-DC63-4266-BB3F-3B8090018796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2B4989-DC63-4266-BB3F-3B8090018796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2B4989-DC63-4266-BB3F-3B8090018796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CBBDC8-6B21-492C-8465-45BD21D4872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CBBDC8-6B21-492C-8465-45BD21D4872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CBBDC8-6B21-492C-8465-45BD21D4872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CBBDC8-6B21-492C-8465-45BD21D4872B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

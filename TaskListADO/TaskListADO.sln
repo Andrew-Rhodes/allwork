@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListADO", "TaskListADO\TaskListADO.csproj", "{FCA3FA99-0F41-42CD-B95B-F7FDD6D28DBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListADO.Data", "TaskListADO.Data\TaskListADO.Data.csproj", "{F9D0DD7B-F238-4908-914A-DFEA9BBD7FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskListADO.Models", "TaskListADO.Models\TaskListADO.Models.csproj", "{C7E195B3-7D19-477E-85D7-CEB48B5D1636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA3FA99-0F41-42CD-B95B-F7FDD6D28DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA3FA99-0F41-42CD-B95B-F7FDD6D28DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA3FA99-0F41-42CD-B95B-F7FDD6D28DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA3FA99-0F41-42CD-B95B-F7FDD6D28DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D0DD7B-F238-4908-914A-DFEA9BBD7FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D0DD7B-F238-4908-914A-DFEA9BBD7FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D0DD7B-F238-4908-914A-DFEA9BBD7FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D0DD7B-F238-4908-914A-DFEA9BBD7FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E195B3-7D19-477E-85D7-CEB48B5D1636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E195B3-7D19-477E-85D7-CEB48B5D1636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E195B3-7D19-477E-85D7-CEB48B5D1636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E195B3-7D19-477E-85D7-CEB48B5D1636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

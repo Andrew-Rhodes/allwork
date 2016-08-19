@@ -1,0 +1,27 @@
+﻿@model List<ModelBinding102.Models.Address>
+@{
+    ViewBag.Title = "Result3";
+}
+
+<h2>Result3</h2>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>City</th>
+        <th>State</th>
+        <th>Zip</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var address in Model)
+    {
+        <tr>
+            <td>@address.City</td>
+            <td>@address.State</td>
+            <td>@address.Zipcode</td>
+        </tr>
+    }
+    </tbody>
+
+</table>
